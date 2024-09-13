@@ -5,12 +5,8 @@ repo: upptime-public # The name of this repository
 sites:
   - name: rubenlopes.uk
     url: https://www.rubenlopes.uk
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 126CA
+    url: https://up.rlab.uk/status/public-homelab
 
 
 status-website:
