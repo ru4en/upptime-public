@@ -7,13 +7,16 @@ sites:
     url: https://www.rubenlopes.uk
   - name: UptimeKuma
     url: https://up.rlab.uk/status/public-homelab
-  - name: 126ca.rlab.uk
-    check: "tcp-ping"
-    url: 126ca.rlab.uk
-  - name: 173wr.rlab.uk
-    check: "tcp-ping"
-    url: 173wr.rlab.uk
+  # - name: 126ca.rlab.uk
+  #   check: "tcp-ping"
+  #   url: 126ca.rlab.uk
+  # - name: 173wr.rlab.uk
+  #   check: "tcp-ping"
+  #   url: 173wr.rlab.uk
+  - name: InviteTracker
+    url: https://invite-tracker.rlab.uk/
 
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
