@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 279,
-    "timeWeek": 289,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "time": 294,
+    "timeDay": 324,
+    "timeWeek": 295,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://up.rlab.uk/status/public-homelab",
     "icon": "https://icons.duckduckgo.com/ip3/up.rlab.uk.ico",
     "slug": "uptime-kuma",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3943,
-    "timeDay": 3368,
-    "timeWeek": 4005,
-    "timeMonth": 3943,
-    "timeYear": 3943,
+    "status": "up",
+    "uptime": "95.39%",
+    "uptimeDay": "64.05%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "95.39%",
+    "uptimeYear": "95.39%",
+    "time": 3798,
+    "timeDay": 2510,
+    "timeWeek": 3792,
+    "timeMonth": 3798,
+    "timeYear": 3798,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 518
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://invite-tracker.rlab.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/invite-tracker.rlab.uk.ico",
     "slug": "invite-tracker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 447,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "status": "up",
+    "uptime": "94.22%",
+    "uptimeDay": "64.05%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "94.22%",
+    "time": 446,
+    "timeDay": 344,
+    "timeWeek": 446,
+    "timeMonth": 446,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 518
     }
   }
 ]
