@@ -1,7 +1,7 @@
 url: https://up.rlab.uk/status/public-homelab
-status: down
-code: 502
-responseTime: 8567
-lastUpdated: 2024-12-04T23:44:21.842Z
+status: up
+code: 200
+responseTime: 656
+lastUpdated: 2024-12-04T23:51:26.050Z
 startTime: 2024-09-14T01:12:21.026Z
 generator: Upptime <https://github.com/upptime/upptime>
